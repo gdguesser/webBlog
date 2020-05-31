@@ -1,8 +1,7 @@
-package model;
+package com.spring.weblog.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.sun.istack.NotNull;
-
 import javax.persistence.*;
 import java.time.LocalDate;
 
